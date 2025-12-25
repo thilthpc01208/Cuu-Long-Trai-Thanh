@@ -1,0 +1,111 @@
+
+ani_Ship_HC.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Chuan_0
+  rotate: false
+  xy: 2, 530
+  size: 370, 157
+  orig: 370, 157
+  offset: 0, 0
+  index: -1
+Chuan_1
+  rotate: false
+  xy: 374, 489
+  size: 393, 196
+  orig: 393, 196
+  offset: 0, 0
+  index: -1
+Chuan_2
+  rotate: true
+  xy: 769, 340
+  size: 411, 237
+  orig: 411, 237
+  offset: 0, 0
+  index: -1
+Chuan_3
+  rotate: false
+  xy: 2, 265
+  size: 436, 222
+  orig: 436, 222
+  offset: 0, 0
+  index: -1
+Chuan_4
+  rotate: false
+  xy: 2, 2
+  size: 422, 261
+  orig: 432, 265
+  offset: 0, 4
+  index: -1
+Chuan_5
+  rotate: false
+  xy: 440, 94
+  size: 500, 244
+  orig: 500, 244
+  offset: 0, 0
+  index: -1
+LangHua_0
+  rotate: false
+  xy: 680, 753
+  size: 327, 38
+  orig: 329, 40
+  offset: 1, 1
+  index: -1
+LangHua_1
+  rotate: false
+  xy: 2, 755
+  size: 328, 36
+  orig: 330, 38
+  offset: 1, 1
+  index: -1
+LangHua_2
+  rotate: false
+  xy: 332, 754
+  size: 346, 37
+  orig: 348, 39
+  offset: 1, 1
+  index: -1
+ShuiWen_T_0
+  rotate: false
+  xy: 506, 688
+  size: 120, 64
+  orig: 129, 70
+  offset: 5, 4
+  index: -1
+ShuiWen_T_1
+  rotate: false
+  xy: 256, 689
+  size: 123, 63
+  orig: 129, 69
+  offset: 4, 4
+  index: -1
+ShuiWen_T_2
+  rotate: false
+  xy: 2, 709
+  size: 125, 44
+  orig: 132, 49
+  offset: 5, 4
+  index: -1
+ShuiWen_Z_0
+  rotate: false
+  xy: 628, 687
+  size: 120, 64
+  orig: 129, 70
+  offset: 4, 4
+  index: -1
+ShuiWen_Z_1
+  rotate: false
+  xy: 381, 689
+  size: 123, 63
+  orig: 129, 69
+  offset: 2, 4
+  index: -1
+ShuiWen_Z_2
+  rotate: false
+  xy: 129, 709
+  size: 125, 44
+  orig: 132, 49
+  offset: 2, 4
+  index: -1

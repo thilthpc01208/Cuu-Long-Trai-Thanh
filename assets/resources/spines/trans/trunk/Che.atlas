@@ -1,0 +1,76 @@
+
+Che.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Che_1
+  rotate: true
+  xy: 912, 49
+  size: 198, 105
+  orig: 198, 105
+  offset: 0, 0
+  index: -1
+Che_2
+  rotate: false
+  xy: 549, 2
+  size: 223, 109
+  orig: 223, 109
+  offset: 0, 0
+  index: -1
+Che_3
+  rotate: true
+  xy: 786, 11
+  size: 236, 124
+  orig: 237, 124
+  offset: 0, 0
+  index: -1
+Che_4
+  rotate: false
+  xy: 549, 113
+  size: 235, 134
+  orig: 235, 134
+  offset: 0, 0
+  index: -1
+Che_5
+  rotate: false
+  xy: 2, 88
+  size: 257, 159
+  orig: 257, 159
+  offset: 0, 0
+  index: -1
+Che_6
+  rotate: false
+  xy: 261, 95
+  size: 286, 152
+  orig: 286, 152
+  offset: 0, 0
+  index: -1
+Lun_2_1
+  rotate: true
+  xy: 457, 48
+  size: 45, 40
+  orig: 46, 40
+  offset: 1, 0
+  index: -1
+Lun_2_2
+  rotate: false
+  xy: 959, 5
+  size: 44, 42
+  orig: 46, 42
+  offset: 1, 0
+  index: -1
+Lun_2_3
+  rotate: false
+  xy: 912, 5
+  size: 45, 42
+  orig: 46, 42
+  offset: 1, 0
+  index: -1
+SD
+  rotate: false
+  xy: 261, 17
+  size: 194, 76
+  orig: 198, 82
+  offset: 2, 3
+  index: -1

@@ -1,0 +1,146 @@
+
+ani_fish.png
+size: 512,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bei_1
+  rotate: false
+  xy: 126, 2
+  size: 33, 19
+  orig: 33, 19
+  offset: 0, 0
+  index: -1
+Bei_2
+  rotate: false
+  xy: 275, 12
+  size: 34, 21
+  orig: 34, 21
+  offset: 0, 0
+  index: -1
+QP_0
+  rotate: false
+  xy: 249, 35
+  size: 11, 11
+  orig: 13, 13
+  offset: 1, 1
+  index: -1
+QP_1
+  rotate: false
+  xy: 232, 34
+  size: 15, 10
+  orig: 17, 12
+  offset: 1, 1
+  index: -1
+QP_2
+  rotate: true
+  xy: 262, 35
+  size: 27, 30
+  orig: 29, 32
+  offset: 1, 1
+  index: -1
+QP_3
+  rotate: false
+  xy: 206, 2
+  size: 29, 26
+  orig: 31, 28
+  offset: 1, 1
+  index: -1
+QP_4
+  rotate: true
+  xy: 126, 23
+  size: 39, 29
+  orig: 41, 31
+  offset: 1, 1
+  index: -1
+QP_5
+  rotate: true
+  xy: 251, 53
+  size: 9, 7
+  orig: 11, 9
+  offset: 1, 1
+  index: -1
+QP_6
+  rotate: false
+  xy: 192, 30
+  size: 19, 10
+  orig: 53, 39
+  offset: 1, 28
+  index: -1
+Shui_Bei
+  rotate: false
+  xy: 157, 42
+  size: 52, 20
+  orig: 53, 21
+  offset: 1, 1
+  index: -1
+Shui_Xia
+  rotate: false
+  xy: 2, 9
+  size: 68, 25
+  orig: 68, 26
+  offset: 0, 1
+  index: -1
+Shui_Xie
+  rotate: true
+  xy: 72, 7
+  size: 55, 25
+  orig: 57, 27
+  offset: 1, 1
+  index: -1
+Shui_Yu
+  rotate: false
+  xy: 2, 36
+  size: 68, 26
+  orig: 68, 28
+  offset: 0, 1
+  index: -1
+Xia_Qian_R
+  rotate: false
+  xy: 157, 27
+  size: 33, 13
+  orig: 33, 13
+  offset: 0, 0
+  index: -1
+Xia_Shen
+  rotate: false
+  xy: 161, 2
+  size: 43, 23
+  orig: 43, 23
+  offset: 0, 0
+  index: -1
+Xie_Qian_L
+  rotate: true
+  xy: 211, 46
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+Xie_Shen
+  rotate: false
+  xy: 237, 4
+  size: 36, 28
+  orig: 36, 28
+  offset: 0, 0
+  index: -1
+Xie_Tui_L
+  rotate: true
+  xy: 213, 30
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+Yu_Qi
+  rotate: true
+  xy: 239, 48
+  size: 14, 10
+  orig: 16, 12
+  offset: 1, 1
+  index: -1
+Yu_Shen
+  rotate: true
+  xy: 99, 10
+  size: 52, 25
+  orig: 52, 26
+  offset: 0, 1
+  index: -1

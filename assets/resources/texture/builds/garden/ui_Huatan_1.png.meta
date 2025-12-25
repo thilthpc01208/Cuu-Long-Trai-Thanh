@@ -1,0 +1,55 @@
+{
+  "ver": "2.3.7",
+  "uuid": "5915ff8c-ee9d-42ff-8dd5-b010638eca4a",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 453,
+  "height": 430,
+  "platformSettings": {
+    "android": {
+      "formats": [
+        {
+          "name": "etc1",
+          "quality": "fast"
+        }
+      ]
+    },
+    "ios": {
+      "formats": [
+        {
+          "name": "etc2",
+          "quality": "fast"
+        }
+      ]
+    }
+  },
+  "subMetas": {
+    "ui_Huatan_1": {
+      "ver": "1.0.6",
+      "uuid": "ea1d5116-dc9b-45db-a5c6-18afb575c19f",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "5915ff8c-ee9d-42ff-8dd5-b010638eca4a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -92,
+      "trimX": 92,
+      "trimY": 185,
+      "width": 269,
+      "height": 244,
+      "rawWidth": 453,
+      "rawHeight": 430,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "ver": "1.3.2",
+  "uuid": "92b0d160-b8c9-4481-923e-57ee7c45e1ce",
+  "importer": "prefab",
+  "optimizationPolicy": "MULTI_INSTANCE",
+  "asyncLoadAssets": false,
+  "readonly": false,
+  "subMetas": {}
+}
